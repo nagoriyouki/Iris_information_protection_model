@@ -1,1 +1,1 @@
-# EfficientDet_Quantization
+# RetinaNet_Quantization
