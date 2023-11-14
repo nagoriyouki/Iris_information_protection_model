@@ -11,6 +11,8 @@
         <img src="https://img.shields.io/badge/github-181717?style=flat&logo=python&logoColor=white" />
         <img src="https://img.shields.io/badge/pycharm-000000?style=flat&logo=python&logoColor=white" />
         <img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=flat&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/pytorch-EE4C2C?style=flat&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/opencv-5C3EE8?style=flat&logo=python&logoColor=white" />
         <br><br>
         <div>📝Portfolio📝</div>
         <br>
