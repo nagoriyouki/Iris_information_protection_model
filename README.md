@@ -50,8 +50,7 @@
 
 <strong>어린 남자 아이 블러 처리 후/strong>
 <p align="center">
-  <img src="https://github.com/nagoriyouki/Iris_information_protection_model/assets/130470442/151d6183-5175-4698-8c23-2ff3252bff0f
-">
+  <img src="https://github.com/nagoriyouki/Iris_information_protection_model/assets/130470442/151d6183-5175-4698-8c23-2ff3252bff0f">
 </p>
 
 <strong>안경 낀 남자 블러 처리 전</strong>
