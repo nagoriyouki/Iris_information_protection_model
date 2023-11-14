@@ -20,16 +20,21 @@
         <img src="https://img.shields.io/badge/notion-000000?style=flat&logo=python&logoColor=white" />
     </div>
 </div><br>
+
  <br/>
  
 # 🧠사용 모델: Retinanet🧠
 
 모델 출처: https://github.com/yhenon/pytorch-retinanet.git
+
  <br/>
+ 
 # ✂️학습 이미지 데이터 세트 다운로드 방법✂️
 
 ⬇️https://universe.roboflow.com/tosiken/eye_hand 접속 후 V8 다운로드
+
  <br/>
+ 
 # 👁️홍채 보안 (블러) 적용 예시👁️</div>
 
 <strong>&nbsp;&nbsp;&nbsp;&nbsp;안경 안 낀 여자 블러 처리 전</strong>
@@ -62,6 +67,7 @@
   <img src="https://github.com/nagoriyouki/Iris_information_protection_model/assets/130470442/56d09011-298d-4e0b-a47c-814b7587de7c">
 </p>
 <div align="center">
+    
  <br/>
     
 # 실행방법
