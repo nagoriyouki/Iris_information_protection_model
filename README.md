@@ -40,32 +40,32 @@
 
 <strong>&nbsp;&nbsp;안경 안 낀 여자 블러 처리 전</strong>
 <p align="center">
-  <img src="https://github.com/nagoriyouki/Iris_information_protection_model/assets/130470442/94c84e12-36fb-41a1-b387-7f2638f44be9">
+  <img src="https://github.com/nagoriyouki/Iris_information_protection_model/assets/130470442/76019605-a8d9-420d-b217-2fd44ac12553">
 </p>
 
 <strong>&nbsp;&nbsp;안경 안 낀 여자 블러 처리 후</strong>
 <p align="center">
-  <img src="https://github.com/nagoriyouki/Iris_information_protection_model/assets/130470442/a61d3fb8-03ee-41b8-ba5e-f0bf2d3aadc9">
+  <img src="https://github.com/nagoriyouki/Iris_information_protection_model/assets/130470442/cbd8fe7a-64eb-4f81-ad2b-3ab10e03857d">
 </p>
 
 <strong>&nbsp;&nbsp;어린 남자 아이 블러 처리 전</strong>
 <p align="center">
-  <img src="https://github.com/nagoriyouki/Iris_information_protection_model/assets/130470442/4f94999b-7e4b-45de-9c31-8495b34c94c6">
+  <img src="https://github.com/nagoriyouki/Iris_information_protection_model/assets/130470442/be9d819f-cf4c-4dec-bf66-595edb54ed86">
 </p>
 
 <strong>&nbsp;&nbsp;어린 남자 아이 블러 처리 후</strong>
 <p align="center">
-  <img src="https://github.com/nagoriyouki/Iris_information_protection_model/assets/130470442/151d6183-5175-4698-8c23-2ff3252bff0f">
+  <img src="https://github.com/nagoriyouki/Iris_information_protection_model/assets/130470442/04d67edf-8e66-4ff7-abd0-892f54901291">
 </p>
 
 <strong>&nbsp;&nbsp;안경 낀 남자 블러 처리 전</strong>
 <p align="center">
-  <img src="https://github.com/nagoriyouki/Iris_information_protection_model/assets/130470442/e3ca4231-50e4-4f38-9184-42cddba4f2ed">
+  <img src="https://github.com/nagoriyouki/Iris_information_protection_model/assets/130470442/7dc2e193-c6d7-44d7-b0de-594504e7da43">
 </p>
 
 <strong>&nbsp;&nbsp;안경 낀 남자 블러 처리 후</strong>
 <p align="center">
-  <img src="https://github.com/nagoriyouki/Iris_information_protection_model/assets/130470442/56d09011-298d-4e0b-a47c-814b7587de7c">
+  <img src="https://github.com/nagoriyouki/Iris_information_protection_model/assets/130470442/8d4ef0f3-e6ba-428b-98aa-be1f15a463a9">
 </p>
 <div align="center">
     
