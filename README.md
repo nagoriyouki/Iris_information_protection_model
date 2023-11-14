@@ -31,7 +31,7 @@
  
 # ✂️학습 이미지 데이터 세트 다운로드 방법✂️
 <strong>학습 데이터 세트</strong><br>
-⬇️https://universe.roboflow.com/tosiken/eye_hand 접속 후 V8 다운로드
+⬇️https://universe.roboflow.com/tosiken/eye_hand 접속 후 V8 다운로드<br>
 <strong>모델 다운로드(.pt)</strong><br>
 ⬇️https://www.dropbox.com/scl/fo/1cb3qln03kydwfg2gmjxt/h?rlkey=ssv9cnupojwmv0rbx3uf1f15a&dl=0
  <br/>
