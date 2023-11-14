@@ -63,9 +63,9 @@
 </p>
 
 # 실행방법
-<strong>cpu 사용 모델</strong><br>
+💻<strong>cpu 사용 모델</strong>💻<br>
 irisblur.py
-▶️python irisblur.py --image_path 이미지 경로 --model_path 모델 경로 --class_list list.csv 파일 경로
-<strong>gpu 사용 모델</strong><br>
+▶️python irisblur.py --image_path 이미지 경로 --model_path 모델 경로 --class_list list.csv 파일 경로<br>
+🚀<strong>gpu 사용 모델</strong>🚀<br>
 ▶️python irisblur_gpu.py --image_path 이미지 경로 --model_path 모델 경로 --class_list list.csv 파일 경로
 </div>
