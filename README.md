@@ -6,17 +6,17 @@
         <br>
         <img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white" />
         <br><br>
-        ⚙️Tools⚙️</div>
+        <div>⚙️Tools⚙️</div>
         <br>
         <img src="https://img.shields.io/badge/github-181717?style=flat&logo=python&logoColor=white" />
         <img src="https://img.shields.io/badge/pycharm-000000?style=flat&logo=python&logoColor=white" />
         <br><br>
-        📝Portfolio📝</div>
+        <div>📝Portfolio📝</div>
         <br>
-        <div style="display: inline-block; text-align: center;">
         <img src="https://img.shields.io/badge/notion-000000?style=flat&logo=python&logoColor=white" />
     </div>
-</div> 
+</div>
+
 
 
 
