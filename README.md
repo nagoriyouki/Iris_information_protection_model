@@ -32,7 +32,7 @@
 
 # 👁️홍채 보안 (블러) 적용 예시👁️</div>
 
-<strong>&nbsp;&nbsp;&nbsp;안경 안 낀 여자 블러 처리 전</strong>
+<strong>&nbsp;&nbsp;&nbsp;&nbsp;안경 안 낀 여자 블러 처리 전</strong>
 <p align="center">
   <img src="https://github.com/nagoriyouki/Iris_information_protection_model/assets/130470442/94c84e12-36fb-41a1-b387-7f2638f44be9">
 </p>
