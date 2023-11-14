@@ -62,7 +62,7 @@
   <img src="https://github.com/nagoriyouki/Iris_information_protection_model/assets/130470442/e3ca4231-50e4-4f38-9184-42cddba4f2ed">
 </p>
 
-<strong>&nbsp;&nbsp;&nbsp;&nbsp;안경 낀 남자 블러 처리 후/strong>
+<strong>&nbsp;&nbsp;&nbsp;&nbsp;안경 낀 남자 블러 처리 후</strong>
 <p align="center">
   <img src="https://github.com/nagoriyouki/Iris_information_protection_model/assets/130470442/56d09011-298d-4e0b-a47c-814b7587de7c">
 </p>
