@@ -9,7 +9,7 @@
         ⚙️Tools⚙️</div>
         <br>
         <img src="https://img.shields.io/badge/github-181717?style=flat&logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/pycharm-000000?style=flat&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/pycharm-000000?style=flat&logo=python&logoColor=white" />
             <br>
         📝Portfolio📝</div>
         <br>
