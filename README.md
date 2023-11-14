@@ -39,8 +39,7 @@
 
 <strong>안경 안 낀 여자 블러 처리 후</strong>
 <p align="center">
-  <img src="https://github.com/nagoriyouki/Iris_information_protection_model/assets/130470442/a61d3fb8-03ee-41b8-ba5e-f0bf2d3aadc9
-">
+  <img src="https://github.com/nagoriyouki/Iris_information_protection_model/assets/130470442/a61d3fb8-03ee-41b8-ba5e-f0bf2d3aadc9">
 </p>
 
 <strong>어린 남자 아이 블러 처리 전</strong>
