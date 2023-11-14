@@ -21,7 +21,6 @@
     </div>
 </div>
 
--
 # 🧠사용 모델: Retinanet🧠
 
 모델 출처: https://github.com/yhenon/pytorch-retinanet.git
