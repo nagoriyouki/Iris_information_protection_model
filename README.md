@@ -30,73 +30,42 @@
 
 ⬇️https://universe.roboflow.com/tosiken/eye_hand 접속 후 V8 다운로드
 
+# 홍채 보안 (블러) 적용 예시
 
-|class|Images|Instances|P|R|mAP50|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|all|1608|2156|0.726|0.796|0.793|
-|bollard|1608|731|0.82|0.722|0.803|
-|crosswalk|1608|752|0.68|0.856|0.826|
-|greenlight|1608|349|0.723|0.83|0.801|
-|redlight|1608|324|0.681|0.778|0.745|
-
-# PR curve
-
+<strong>안경 안 낀 여자 블러 처리 전</strong>
 <p align="center">
-  <img src="https://github.com/nagoriyouki/YoloV5s_Prune/assets/130470442/397839f0-58a4-47fd-9fef-26ac161f0d5c">
+  <img src="">
 </p>
 
-# P-curve
+<strong>안경 안 낀 여자 블러 처리 후</strong>
 <p align="center">
-  <img src="https://github.com/nagoriyouki/YoloV5s_Prune/assets/130470442/94b55951-26c9-4267-96da-d198724e4de8">
+  <img src="">
 </p>
 
-# Result
+<strong>어린 남자 아이 블러 처리 전</strong>
 <p align="center">
-  <img src="https://github.com/nagoriyouki/YoloV5s_Prune/assets/130470442/d80c08fe-e788-4824-869c-b76f4060e158">
+  <img src="">
 </p>
 
-# 실행방법
-[detect.py]
-▶️pip install -r requirements.txt
-▶️python detect.py --source 0 --weights /path/best.pt --data /path/seconddata.yaml
-
-
-# 📊(.onnx) Prune 후 성능지표📊
-
-mAP50: 0.789
-
-|class|Images|Instances|P|R|mAP50|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|all|1608|2156|0.735|0.789|0.789|
-|bollard|1608|731|0.857|0.679|0.782|
-|crosswalk|1608|752|0.693|0.864|0.83|
-|greenlight|1608|349|0.704|0.84|0.8|
-|redlight|1608|324|0.687|0.773|0.742|
-
-# PR curve
-
+<strong>어린 남자 아이 블러 처리 후/strong>
 <p align="center">
-  <img src="https://github.com/nagoriyouki/YoloV5s_Prune/assets/130470442/a90d04b3-bbc9-4737-bdcd-6701e3112221">
+  <img src="">
 </p>
 
-# P-curve
+<strong>안경 낀 남자 블러 처리 전</strong>
 <p align="center">
-  <img src="https://github.com/nagoriyouki/YoloV5s_Prune/assets/130470442/38575484-f9d6-4715-8de2-16d136a6032b">
+  <img src="">
 </p>
 
-# R-curve
+<strong>안경 낀 남자 블러 처리 후/strong>
 <p align="center">
-  <img src="https://github.com/nagoriyouki/YoloV5s_Prune/assets/130470442/2f315e05-a687-44d4-9f6a-a974b0f1a409">
+  <img src="">
 </p>
 
 # 실행방법
-<strong>[detect.py]</strong><br>
-▶️ pip install -r requirements.txt<br>
-▶️ python detect.py --source 0 --weights /path/best_cpu.onnx --data /path/seconddata.yaml
-
-# 기타
-⬇️<strong>데이터셋 다운로드</strong>: kaggle datasets download -d juhyehyeon/crosswalk-bollard-trafficlight<br>
-💡<strong>기존 모델 출처</strong>: Jocher, G. (2020). YOLOv5 by Ultralytics (Version 7.0) [Computer software]. https://doi.org/10.5281/zenodo.3908559
+<strong>cpu 사용 모델</strong><br>
+irisblur.py
+▶️python irisblur.py --image_path 이미지 경로 --model_path 모델 경로 --class_list list.csv 파일 경로
+<strong>gpu 사용 모델</strong><br>
+▶️python irisblur_gpu.py --image_path 이미지 경로 --model_path 모델 경로 --class_list list.csv 파일 경로
 </div>
-
-
