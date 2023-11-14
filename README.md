@@ -1,5 +1,4 @@
 # <div align="center">Iris_information_protection_model</div>
-
 <div align="center"> <strong>눈동자를 검출한 뒤 원본을 거의 훼손하지 않고 블러 처리하는 프로그램</strong>
     
 <div align="center">
@@ -24,7 +23,7 @@
 
 # 🧠사용 모델: Retinanet🧠
 
-모델 출처: 
+모델 출처: https://github.com/yhenon/pytorch-retinanet.git
 
 # ✂️학습 이미지 데이터 세트 다운로드 방법✂️
 
