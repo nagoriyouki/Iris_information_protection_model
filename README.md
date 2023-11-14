@@ -1,4 +1,4 @@
-# <div align="center">👁️Iris_information_protection_model👁️</div>
+# <div align="center">Iris_information_protection_model</div>
 
 <div align="center"> <strong>이미지에서 눈동자를 식별한 뒤 블러처리하는 프로그램</strong>
     
@@ -30,7 +30,7 @@
 
 ⬇️https://universe.roboflow.com/tosiken/eye_hand 접속 후 V8 다운로드
 
-# 홍채 보안 (블러) 적용 예시
+# 👁️홍채 보안 (블러) 적용 예시👁️
 
 <strong>안경 안 낀 여자 블러 처리 전</strong>
 <p align="center">
