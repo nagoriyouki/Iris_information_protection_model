@@ -1,6 +1,6 @@
 # <div align="center">Iris_information_protection_model</div>
 
-<div align="center"> <strong>이미지에서 눈동자를 식별한 뒤 블러처리하는 프로그램</strong>
+<div align="center"> <strong>눈동자를 검출한 뒤 원본을 거의 훼손하지 않고 블러 처리하는 프로그램</strong>
     
 <div align="center">
     <div style="display: inline-block; text-align: center;">
@@ -34,32 +34,34 @@
 
 <strong>안경 안 낀 여자 블러 처리 전</strong>
 <p align="center">
-  <img src="">
+  <img src="https://github.com/nagoriyouki/Iris_information_protection_model/assets/130470442/94c84e12-36fb-41a1-b387-7f2638f44be9">
 </p>
 
 <strong>안경 안 낀 여자 블러 처리 후</strong>
 <p align="center">
-  <img src="">
+  <img src="https://github.com/nagoriyouki/Iris_information_protection_model/assets/130470442/a61d3fb8-03ee-41b8-ba5e-f0bf2d3aadc9
+">
 </p>
 
 <strong>어린 남자 아이 블러 처리 전</strong>
 <p align="center">
-  <img src="">
+  <img src="https://github.com/nagoriyouki/Iris_information_protection_model/assets/130470442/4f94999b-7e4b-45de-9c31-8495b34c94c6">
 </p>
 
 <strong>어린 남자 아이 블러 처리 후/strong>
 <p align="center">
-  <img src="">
+  <img src="https://github.com/nagoriyouki/Iris_information_protection_model/assets/130470442/151d6183-5175-4698-8c23-2ff3252bff0f
+">
 </p>
 
 <strong>안경 낀 남자 블러 처리 전</strong>
 <p align="center">
-  <img src="">
+  <img src="https://github.com/nagoriyouki/Iris_information_protection_model/assets/130470442/e3ca4231-50e4-4f38-9184-42cddba4f2ed">
 </p>
 
 <strong>안경 낀 남자 블러 처리 후/strong>
 <p align="center">
-  <img src="">
+  <img src="https://github.com/nagoriyouki/Iris_information_protection_model/assets/130470442/56d09011-298d-4e0b-a47c-814b7587de7c">
 </p>
 
 # 실행방법
